@@ -22,3 +22,9 @@ https://youtu.be/71eREaotw88
 -실습시험2 시험 결과-
 
 ![Practice1Result](https://github.com/chs0218/GameEngineLecture/assets/39898936/b91a5f5f-d8ae-47af-92c4-927fafd21f42)
+
+-실습시험3 요구사항-
+![Practice3](https://github.com/chs0218/GameEngineLecture/assets/39898936/9de82ad8-1656-4b3f-b0b9-e756d8114c47)
+
+-실습시험3 연습 프로젝트 동영상 링크-
+https://youtu.be/97cwTSF2dKM
