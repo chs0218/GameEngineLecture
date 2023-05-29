@@ -2,13 +2,17 @@
  
 언리얼엔진 실습 시험 저장용 프로젝트
 
-실습 시험 #1. 비행기 게임 제작
+-실습시험1 요구사항-
+![Practice1](https://github.com/chs0218/GameEngineLecture/assets/39898936/e9589fa3-8cbd-42e5-af37-ab460dc9ea2a)
 
-1. 1km 이상의 코스 제작
-2. 주행 거리 정확한 표시
-3. 주행 시간 정확한 표시
-4. 3인칭 시점 구현 여부
-5. 조종 : 스페이스 키를 이용한 전진 기능
-6. 코스 중간에 랜덤한 코인 생성
-7. 비행기가 코인을 획득하는 기능
-8. 획득한 코인 개수 표시
+-실습시험1 시험 결과-
+
+![Practice2Result](https://github.com/chs0218/GameEngineLecture/assets/39898936/7093aa7b-252c-4849-afc1-f2bca1ba43a0)
+
+
+-실습시험2 요구사항-
+![Practice2](https://github.com/chs0218/GameEngineLecture/assets/39898936/b7e2e21f-d6cf-445e-9941-90fb73421259)
+
+-실습시험2 시험 결과-
+
+![Practice1Result](https://github.com/chs0218/GameEngineLecture/assets/39898936/b91a5f5f-d8ae-47af-92c4-927fafd21f42)
