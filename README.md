@@ -28,3 +28,8 @@ https://youtu.be/71eREaotw88
 
 -실습시험3 연습 프로젝트 동영상 링크-
 https://youtu.be/97cwTSF2dKM
+
+-실습시험3 시험 결과-
+
+![Practice3 Result](https://github.com/chs0218/GameEngineLecture/assets/39898936/184170b1-70bc-4260-8454-030b12c22efd)
+
